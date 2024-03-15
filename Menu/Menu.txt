@@ -1,0 +1,186 @@
+Arepas
+*********************************************************************************************
+Arepa Carne Mechada
+$ 70.00
+Arepa rellena de deshebrada de res con sazón venezolano.
+
+Arepa Pelua
+$ 85.00
+Arepa rellena de deshebrada de res con sazón venezolano y queso gouda.
+
+Arepa Trigueña
+$ 70.00
+Arepa rellena de deshebrada de pollo con sazón venezolano.
+
+Arepa Catira
+$ 85.00
+Arepa rellena de deshebrada de pollo con sazón venezolano y queso gouda.
+
+Arepa Reina Pepiada
+$ 70.00
+Arepa rellena de pollo deshebrado, aguacate y mayonesa.
+
+Arepa Sifrina
+$ 85.00
+Arepa rellena de pollo deshebrado, aguacate y mayonesa con queso gouda.
+
+Arepa Pernil
+$ 70.00
+Arepa rellena de carne de cerdo con sazón venezolano.
+
+Arepa Rumbera
+$ 85.00
+Arepa rellena de carne de cerdo con sazón venezolano y queso gouda.
+
+Arepa Dominó
+$ 70.00
+Arepa rellena de frijol negro con queso blanco venezolano.
+
+Arepa Tajadas
+$ 70.00
+Arepa rellena de plátano macho frito con queso oaxaca.
+
+Arepa Queso de Mano
+$ 70.00
+Arepa rellena de queso venezolano cremoso, jugoso y suave.
+
+Arepa Pana
+$ 70.00
+Arepa rellena de jamón y queso gouda.
+
+
+Empanadas
+*********************************************************************************************
+Empanada Carne Mechada
+$ 60.00
+Empanada rellena de deshebrada de res con sazón venezolano.
+
+Empanada Trigueña
+$ 60.00
+Empanada rellena de deshebrada de pollo con sazón venezolano.
+
+Empanada Dominó
+$ 60.00
+Empanada rellena de frijol negro con queso blanco venezolano.
+
+Empanada Tajadas
+$ 60.00
+Empanada rellena de plátano macho frito con queso oaxaca.
+
+Empanada Queso de Mano
+$ 60.00
+Empanada rellena de queso venezolano cremoso, jugoso y suave.
+
+Empanada Pana
+$ 60.00
+Empanada rellena de jamón y queso gouda.
+
+Empanada Pelúa
+$ 70.00
+Empanada rellena de deshebrada de res con sazón venezolano y queso gouda.
+
+Empanada Catira
+$ 70.00
+Empanada rellena de deshebrada de pollo con sazón venezolano y queso gouda.
+
+Empanada Pernil	
+$ 60.00
+Empanada rellena de carne de cerdo con sazón venezolano.
+
+Empanada Rumbera
+$ 70.00
+Empanada rellena de carne de cerdo con sazón venezolan y queso gouda.
+
+
+Bebidas
+*********************************************************************************************
+Maltín Polar
+Bebida de malta sin alcohol.
+$ 60.00
+
+Papelón de Limón
+Limonada endulzada con piloncillo.
+$ 50.00
+
+Coca-Cola Original 355 ml
+$ 45.00
+
+Coca-Cola Sin Azúcar 355 ml
+$ 45.00
+
+
+Postres / Tortas
+*********************************************************************************************
+Chicha
+$ 50.00
+Bebida dulce a base de arroz.
+
+
+Entradas
+*********************************************************************************************
+Guasacaca
+$ 90.00
+Guacamole venezolano acompañado de 6 mini arepas.
+
+Nata
+$ 90.00
+Suero venezolano acompañado de 6 mini arepas.
+
+
+
+
+
+
+<ul>
+	<li> bla bla bla </li>
+	<img src="Menu/Arepas/Arepa Carne Mechada.webp" width="200" height="200"/>
+	<li> bla bla bla </li>
+	<li> bla bla bla </li>
+	<li> bla bla bla </li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
